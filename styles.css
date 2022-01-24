@@ -30,7 +30,7 @@ body {background-color: black;
                 font-size: 16px;
                 color: white;
                 text-align: center;
-                padding: 14px 16px;
+                padding: 14px 38px;
                 text-decoration: none;
               }
               
@@ -102,8 +102,11 @@ body {background-color: black;
                         background-repeat: no-repeat;
                         background-size: 100px;
                                    }
-video { margin-left: 300px;
-        margin-top: 30px ;   } 
+video { margin-left: 25%;
+        margin-top: 3% ; 
+        object-fit: cover;
+        width: 50%;
+        height: 100%;   } 
 
             
      
